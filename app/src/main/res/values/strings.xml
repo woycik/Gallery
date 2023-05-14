@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="path">
+        <item>/storage/emulated/0/Download/images/2815575-Co-ma-wspolnego-kot-z-zyrafa-Odpowiedz-w-artykule.jpg</item>
+        <item>/storage/emulated/0/Download/images/1620728230.jpg</item>
+        <item>/storage/emulated/0/Download/images/f96bb3204b956eb8d96b412c4612a927,0,0,0,0.jpg</item>
+        <item>/storage/emulated/0/Download/images/kot-kartuski-charakter.jpg</item>
+        <item>/storage/emulated/0/Download/images/kot-przybłęda-768x512.jpeg</item>
+        <item>/storage/emulated/0/Download/images/kot-w-nowym-domu_1633946823468_1634206264217.png</item>
+
+    </string-array>
+
+    <string-array name="data">
+        <item>Kot żyrafa żyjący w środowisku własnym.</item>
+        <item>Kotek</item>
+        <item>C:\Users\woks0\OneDrive\Pulpit\Aplikacje Mobilne\images\f96bb3204b956eb8d96b412c4612a927,0,0,0,0.jpg</item>
+        <item>C:\Users\woks0\OneDrive\Pulpit\Aplikacje Mobilne\images\kot-kartuski-charakter.jpg</item>
+        <item>C:\Users\woks0\OneDrive\Pulpit\Aplikacje Mobilne\images\kot-przybłęda-768x512.jpeg</item>
+        <item>C:\Users\woks0\OneDrive\Pulpit\Aplikacje Mobilne\images\kot-w-nowym-domu_1633946823468_1634206264217.png</item>
+    </string-array>
+</resources>
